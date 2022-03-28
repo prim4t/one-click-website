@@ -10,7 +10,7 @@
 
 
 
-<center>
+
 
 
 | Linktree | Blog | Store |
@@ -22,7 +22,7 @@
 | [![Chalk](https://raw.githubusercontent.com/nielsenramon/chalk/master/_assets/images/documentation/chalk-intro%402x.png)](https://github.com/nielsenramon/chalk) | [![TeXt](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)](https://github.com/kitian616/jekyll-TeXt-theme) | [![Anatole](https://raw.githubusercontent.com/lxndrblz/anatole/master/images/screenshot.png)](https://github.com/lxndrblz/anatole) |
 
 
-</center>
+
 
 
 ## Useful Tools and links:
